@@ -131,9 +131,7 @@ class SimpleDiceRoller {
 
         let r = new Roll(formula);
 
-        r.toMessage({
-            user: game.user._id,
-        })
+        r.toMessage()
 
         this._close(event, html);
 
