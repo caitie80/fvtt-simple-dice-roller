@@ -30,8 +30,8 @@
       "flags": {}
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/jopeek/fvtt-simple-dice-roller/master/module.json",
-  "download": "https://github.com/jopeek/fvtt-simple-dice-roller/archive/master.zip",
+  "manifest": "https://raw.githubusercontent.com/caitie80/fvtt-simple-dice-roller/master/module.json",
+  "download": "https://github.com/caitie80/fvtt-simple-dice-roller/archive/master.zip",
   "id": "simple-dice-roller",
   "compatibility": {
     "minimum": "10",
