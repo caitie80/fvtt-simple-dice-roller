@@ -131,7 +131,7 @@ class SimpleDiceRoller {
 
         let r = new Roll(formula);
 
-        r.toMessage()
+        r.toMessage({speaker})
 
         this._close(event, html);
 
